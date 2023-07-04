@@ -3,4 +3,4 @@ Circle Hough transformation in python without using already existing functions i
 
 Read all the comments so you know how to use it.
 
-cv2 is used only to opend images and save them.
+cv2 is used only to open images and save them.
